@@ -1,0 +1,150 @@
+
+body{
+  font-family: 'Times New Roman', Times, serif;
+}
+#title{
+  height: 690px;
+}
+.myclass{
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-bottom: 0;
+}
+
+  .navbar-brand{
+    margin-left: 15px;
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+  }
+  .nav-text{
+    padding:0 18px;
+  }
+  .nav-link{
+    font-size: 1.2rem;
+    font-weight:400;
+  }
+
+
+
+.nav-link{
+    color: white;
+
+}
+.bg-image{
+    width: 100%;
+    height: 40rem;
+    object-fit: cover;
+}
+
+.textinput{
+    font-family: 'Courier New', Courier, monospace;
+    height: 10rem;
+    width: 40rem;
+    background:rgb(22, 20, 20);
+    color: grey;
+    position: top;
+    font-family:cursive;
+    font-size: large;
+    font-weight:lighter;
+    box-shadow: 10px,10px;
+}
+.text{
+    text-align: center;
+    position: relative;
+    bottom: 25rem;    
+}
+#testimonials{
+  background-color:rgba(86, 114, 143, 0.628);
+  color: white;
+  text-align: center;
+
+}
+.testimonial-image{
+  width:250px;
+  border-radius: 20%;
+  margin-bottom: 0.2rem;
+}
+.heading{
+  color: white;
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  color: black;
+  font-weight: bolder;
+}
+h2{
+  margin-left: 6rem;
+  margin-right: 6rem;
+  margin-bottom: 3rem;
+  font-family: cursive;
+
+}
+#myvission{ 
+  background-color: #BACDDB;
+  text-align: center;
+  padding-bottom: 3.5rem;
+}
+p{
+  font-size:1.5rem;
+  color: black;
+  margin:0;
+  font-family: cursive;
+
+}
+.container-fluid{
+  
+  
+  
+}
+#mycontact{
+ 
+  background-color:rgba(86, 114, 143, 0.628) ;
+  text-align: center;
+  padding-bottom: 3.5rem;
+}
+.copyright{
+  text-align: center;
+  background-color:#BACDDB ;
+  
+}
+.last{
+  color:black ;
+}
+.add{
+  padding-bottom: 2.5rem;
+}
+i:hover{
+  color:#BACDDB;
+
+}
+h3{
+  margin-top: 2rem;
+}
+@media (max-width:1028px){
+    .bg-image{
+        width: 100%;
+        height: 20rem;
+    }
+    .text input{
+        height: 5rem;
+        width: 20rem;
+       
+       
+        
+    }
+    .text{
+        text-align: center;
+        margin-top: 7rem;
+        
+    }
+    #title{
+      height:23rem;
+    }
+   
+    
+
+   
+  }
+
+
+
